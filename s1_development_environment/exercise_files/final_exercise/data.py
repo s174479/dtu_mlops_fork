@@ -1,5 +1,5 @@
 import torch
-
+import numpy as np
 
 def mnist():
     # exchange with the corrupted mnist dataset
